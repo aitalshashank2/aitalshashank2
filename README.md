@@ -1,6 +1,6 @@
 ### Hello there!
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=aitalshashank2.aitalshashank2) -->
+![](https://visitor-badge.glitch.me/badge?page_id=aitalshashank2.aitalshashank2)
 [![GitHub followers](https://img.shields.io/github/followers/aitalshashank2.svg?style=social&label=Follow)](https://github.com/aitalshashank2?tab=followers)
 
 <a href="https://www.facebook.com/shashank.aital.96/">
@@ -15,6 +15,7 @@
     <img align="left" alt="Shashank's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br/>
 <br/>
 
 Hi! I'm **Shashank**. I am a sophomore at [IIT Roorkee](https://iitr.ac.in/) and am a project associate at [Information Management Group, IIT Roorkee](http://img.iitr.ac.in/). I am a full stack developer and am a keen learner. As of now, I am exploring the world of Quantum computing and working on some really interesting projects. In addition to programming 🧑🏻‍💻, I love listening to music 🎶 and eating 🍕!
