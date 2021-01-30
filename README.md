@@ -18,9 +18,9 @@
 <br/>
 <br/>
 
-Hi! I'm **Shashank**. I am a sophomore at [IIT Roorkee](https://iitr.ac.in/) and am a project associate at [Information Management Group, IIT Roorkee](http://img.iitr.ac.in/). I am a full stack developer and am a keen learner. As of now, I am exploring the world of Quantum computing and working on some really interesting projects. In addition to programming 🧑🏻‍💻, I love listening to music 🎶 and eating 🍕!
+Hi! I'm **Shashank**. I am a sophomore at [IIT Roorkee](https://iitr.ac.in/), a project associate at [Information Management Group, IIT Roorkee](http://img.iitr.ac.in/) and a core member at [Vision and Language Group, IIT Roorkee](https://vlgiitr.github.io/). I am a full stack developer and am a keen learner. As of now, I am exploring the world of Deep Learning and working on some really interesting projects. In addition to programming 🧑🏻‍💻, I love listening to music 🎶 and eating 🍕!
 
-Wanna chill around on a pleasant evening, listening to Indian Classical music and eating fresh pakodas with rich spicy chutney? Count me in 😌! Talk to me about anything under the sky (or maybe over the sky too 😄) through shashank_p@cs.iitr.ac.in.
+Wanna chill around on a pleasant evening, listening to Indian Classical music and eating fresh pakodas with rich spicy chutney? Count me in 😌! Talk to me about anything under the sky (or maybe over the sky too 😄) through aitalshashank2@gmail.com or shashank_p@cs.iitr.ac.in.
 
 ### Skills
 
