@@ -4,15 +4,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/aitalshashank2.svg?style=social&label=Follow)](https://github.com/aitalshashank2?tab=followers)
 
 <a href="https://www.facebook.com/shashank.aital.96/">
-    <img align="left" alt="Shashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://www.instagram.com/shashankaital/">
-    <img align="left" alt="Shashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shashank-aital-8a9760192/">
-    <img align="left" alt="Shashank's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/AitalShashank">
+    <img alt="Twitter" src="https://img.shields.io/badge/AitalShashank-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
 <br/>
@@ -25,29 +25,47 @@ Wanna chill around on a pleasant evening, listening to Indian Classical music an
 ### Skills
 
 <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
     <img alt="DjangoRestFramework" src="https://img.shields.io/badge/-DjangoRestFramework-2c2c2c?style=flat-square&logo=drf&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
     <img alt="Semantic UI" src="https://img.shields.io/badge/-Semantic UI-00b5ad?style=flat-square&logo=semantic-ui&logoColor=white" />
     <img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-000000?style=flat-square&logo=Qiskit&logoColor=white" />
     <img alt="Yii2.0" src="https://img.shields.io/badge/-Yii2.0-f3ffbd?style=flat-square&logo=yii2.0&logoColor=white" />
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+    <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### Languages and Tools
 
 <p>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-00549D?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-9B59B6?style=flat-square&logo=php&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="bash" src="https://img.shields.io/badge/-bash-000000?style=flat-square&logo=bash&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F1C40F?style=flat-square&logo=mysql&logoColor=black" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostGreSQL-0277BD?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="Vim" src="https://img.shields.io/badge/-Vim-2ECC71?style=flat-square&logo=vim&logoColor=white" />
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />  
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+    <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aitalshashank2&show_icons=true&theme=nightowl" alt="aitalshashank2" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aitalshashank2&show_icons=true&theme=nightowl" alt="aitalshashank2" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitalshashank2&hide=css,html&theme=nightowl&line_height=27&layout=compact&langs_count=8" />
+</p>
