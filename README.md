@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Hi! I'm **Shashank**. I am a junior at [IIT Roorkee](https://iitr.ac.in/), a project leader at [Information Management Group, IIT Roorkee](http://img.iitr.ac.in/) and a core member at [Vision and Language Group, IIT Roorkee](https://vlgiitr.github.io/). I am a full stack developer and am a keen learner. In addition to programming, I love listening to music! Wanna chill around on a pleasant evening, listening to Indian Classical music and eating fresh pakodas with rich spicy chutney? Count me in!
+Hi! I'm **Shashank**. I am a junior at [IIT Roorkee](https://iitr.ac.in/) and a core member at [Vision and Language Group, IIT Roorkee](https://vlgiitr.github.io/). I am a full stack developer and am a keen learner. In addition to programming, I love listening to music! Wanna chill around on a pleasant evening, listening to Indian Classical music and eating fresh pakodas with rich spicy chutney? Count me in!
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aitalshashank2&show_icons=true&theme=nightowl" alt="aitalshashank2" />
